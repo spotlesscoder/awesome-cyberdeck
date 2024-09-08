@@ -6,18 +6,22 @@
 ## Contents
 
 - [Overview](#section)
-- [Open hardware products](#open-hardware)
-  - [DIY kits](#open-hardware-diy-kits)
+- [Open Hardware Products](#open-hardware)
+  - [DIY Kits](#open-hardware-diy-kits)
   - [DIY all the way](#open-hardware-diy-all-the-way)
   - [Video Tutorials](#open-hardware-tutorials)
   - [Articles](#open-hardware-articles)
-- [Commercially available products](#commercial)
-- [Projects to do with your cyberdeck](#cyberdeck-projects)
-- [Useful software](#useful-software)
-  - [Operating systems](#operating-systems)
-  - [CLI tools](#cli-tools)
-  - [GUI tools](#gui-tools)
+- [Commercially available Products](#commercial)
+- [Projects to do with your Cyberdeck](#cyberdeck-projects)
+  - WiFi coverage analysis
+  - Mobile audio / video recording and editing studio 
+- [Useful Software](#useful-software)
+  - [Operating Systems](#operating-systems)
+  - [CLI Tools](#cli-tools)
+  - [GUI Tools](#gui-tools)
 - [Accessories](#accessories)
+  - [Crafting Tools](#crafting-tools)
+  - 
 
 
 ## Overview
@@ -63,7 +67,7 @@ The prices might change (significantly in case of component "shortages" etc.)
 
 ### $100 - $300
 
-TODO
+- [ClockworkPi](https://www.clockworkpi.com/)
 
 ### $300 and above
 
@@ -73,7 +77,8 @@ TODO
 
 ### Operating Systems
 
-TODO
+* RaspberryPI OS
+* Debian
 
 ### CLI Tools
 
@@ -85,7 +90,24 @@ TODO
 
 ## Accessories
 
-TODO
+### Crafting tools
+To initially build and later extend/repair your device, some tools might be necessary
+* A 3D-Printer
+  * Look for a local makerspace so you don't have to buy one on your own
+  * If there is no local makerspace - maybe this is the time for you to initiate one ;)
+  * If you really think you need to own one: 
+  * Filaments:
+* Precision screwdrivers
+* Drills
+* Soldering/electronics tools
+  * soldering iron + holder
+  * solder wire
+  * multimeter to check PCBs and components
+  * Components
+    * LEDs! Everyone loves LEDs.
+    * Set of basic resistor values for 5V circuits
+    * A handful of diodes, transistors
+* Screws and nuts - sizes depend on the model you choose
 
 ## Contribute
 
