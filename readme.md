@@ -43,6 +43,7 @@ These can be bought as a DIY set or different parts can be bought that then need
 
 For these you cannot buy pre-manufactured casings and stuff at the point of adding them to this list. This might have changed in the meantime.
 
+- [Boostbox](https://github.com/veebch/boostbox)
 - [BenMakesEverything](https://github.com/BenMakesEverything/cyberdeck)
 - [Framedeck](https://github.com/brickbots/framedeck)
 - [QAZ](https://github.com/g1sbi/qaz-cyberdeck)
@@ -108,7 +109,7 @@ To initially build and later extend/repair your device, some tools might be nece
     * LEDs! Everyone loves LEDs.
     * Set of basic resistor values for 5V circuits
     * A handful of diodes, transistors
-* Screws and nuts - sizes depend on the model you choose
+* Screws and nuts / press-in threaded inserts - sizes depend on the model you choose
 
 ## Contribute
 
