@@ -1,6 +1,6 @@
 # awesome-cyberdeck [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list about pocket computers, often called cyberdecks with resources to help you choosing or building yours
+> A curated list about pocket computers, often called cyberdecks with resources to help you choosing or building yours, collect inspiration to extend yours or just spend time in a rabbit hole of tech ;)
 
 
 ## Contents
