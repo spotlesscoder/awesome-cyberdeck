@@ -45,6 +45,7 @@ For these you cannot buy pre-manufactured casings and stuff at the point of addi
 
 - [BenMakesEverything](https://github.com/BenMakesEverything/cyberdeck)
 - [Framedeck](https://github.com/brickbots/framedeck)
+- [QAZ](https://github.com/g1sbi/qaz-cyberdeck)
 
 ### Video Tutorials
 
